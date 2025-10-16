@@ -16,6 +16,7 @@ This repository contains a **sanitized excerpt** of a coursework machine-learnin
 - [Model comparison & results](#model-comparison--results)  
 - [Authorship, ethics & data disclaimer](#authorship-ethics--data-disclaimer)  
 - [Key takeaways](#key-takeaways)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -103,6 +104,12 @@ All models were assessed using cross-validation and held-out evaluation metrics;
 
 ## Key takeaways
 
-- Analytical and quantitative problem-solving: This project helped me connect the mathematical foundation of machine learning — from linear regression assumptions to regularization and ensemble variance reduction — to actual code that performs effectively on real-world data. The project demanded deep analytical thinking, especially in understanding why certain models (e.g., Random Forests) handled multicollinearity and nonlinearity more effectively than others (e.g., OLS). This reinforced my ability to reason mathematically about algorithm behavior and to make model choices grounded in both data structure and theory.
-- Significant growth in Python and ML workflow design: Working hands-on with libraries like pandas, scikit-learn, and xgboost greatly expanded my confidence in Python-based data science. I gained a stronger sense of how to structure end-to-end workflows — from data cleaning and transformation to model evaluation and visualization — with efficiency and clarity.
-- Acknowledgements: I am incredibly grateful to Prof. Andrea Celli at Univerità Bocconi for his excellent instruction and enthusiasm for machine learning. It was an absolute privilege to enroll in such an impactful course during my semester exchange. It is truly exhilirating to have such a diverse data analysis toolkit that I am eager to leverage to probe deeper into contemporary issues spanning environmental science, economics, and sustainability.
+- This project provided hands-on experience translating **theoretical machine learning concepts into practical code**, strengthening my ability to connect mathematical understanding with real-world implementation.  
+- Developing end-to-end pipelines in **Python** using tools like `scikit-learn`, `XGBoost`, and `pandas` significantly improved my **coding proficiency and confidence** in structuring reproducible workflows.  
+- The modeling process required **deep analytical reasoning**, particularly in recognizing how certain mathematical properties (e.g., regularization, bias-variance tradeoff, feature correlation) affected model performance.
+
+---
+
+## Acknowledgements
+
+I am incredibly grateful to Prof. Andrea Celli at Univerità Bocconi for his excellent instruction and enthusiasm for machine learning. It was an absolute privilege to enroll in such an impactful course during my semester exchange. It is truly exhilirating to have such a diverse data analysis toolkit that I am eager to leverage to probe deeper into contemporary issues spanning environmental science, economics, and sustainability.
