@@ -15,7 +15,7 @@ This repository contains a **sanitized excerpt** of a coursework machine-learnin
   - [Random Forest (ensemble) pipeline](#random-forest-ensemble-pipeline)  
 - [Model comparison & results](#model-comparison--results)  
 - [Authorship, ethics & data disclaimer](#authorship-ethics--data-disclaimer)  
-- [Key takeaways](#key-takeaways-to-be-completed-by-author)
+- [Key takeaways](#key-takeaways)
 
 ---
 
