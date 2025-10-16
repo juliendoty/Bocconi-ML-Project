@@ -71,6 +71,7 @@ All models were assessed using cross-validation and held-out evaluation metrics;
 **Validation RMSE (log-scale) and combined normal-scale RMSE (project results):**
 
 | Model | Goalkeepers RMSE (log scale) | Outfielders RMSE (log scale) | Combined RMSE (normal scale) |
+| --- | ---: | ---: | ---: |
 | **OLS** | 0.2882 | 0.1848 | €628,212.56 |
 | **Ridge** | 0.2763 | 0.1836 | €618,417.56 |
 | **Random Forest** | **0.2306** | **0.1470** | **€489,948.22** |
@@ -79,6 +80,7 @@ All models were assessed using cross-validation and held-out evaluation metrics;
 **R² (log-space) — final models (reported):**
 
 | Model | Goalkeepers (R², log) | Outfielders (R², log) | Combined (R², normal) |
+| --- | ---: | ---: | ---: |
 | **Random Forest** | 0.965 | **0.986** | **0.996** |
 | **XGBoost** | 0.960 | 0.976 | 0.993 |
 | **OLS** | 0.945 | 0.978 | 0.993 |
