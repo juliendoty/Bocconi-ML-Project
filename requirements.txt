@@ -4,8 +4,3 @@ scikit-learn
 matplotlib
 jupyterlab
 xgboost
-
-^X
-
-
-
