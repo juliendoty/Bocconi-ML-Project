@@ -21,7 +21,7 @@ This repository contains a **sanitized excerpt** of a coursework machine-learnin
 ---
 
 ## Overview
-The goal of the project was to produce accurate, interpretable predictions of player market value (in €) using player attributes and metadata. Exploratory analysis revealed position-dependent feature availability (notably features present only for Goalkeepers or only for Outfielders), strong right skew in the `value_eur` target, and extensive multicollinearity among technical attributes. To address these issues we applied: targeted preprocessing, log-transformations of the target, role-based model segmentation (Goalkeepers vs Outfielders), regularized linear models, and nonlinear ensemble learners.
+The goal of the project was to produce accurate, interpretable predictions of player market value (in €) using player attributes and metadata. Exploratory analysis revealed position-dependent feature availability (notably features present only for Goalkeepers or only for Outfielders), strong right skew in the `value_eur` target, and extensive multicollinearity among technical attributes. To address these issues applied: targeted preprocessing, log-transformations of the target, role-based model segmentation (Goalkeepers vs Outfielders), regularized linear models, and nonlinear ensemble learners.
 
 ---
 
