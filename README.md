@@ -15,7 +15,6 @@ This repository contains a **sanitized excerpt** of a coursework machine-learnin
   - [Random Forest (ensemble) pipeline](#random-forest-ensemble-pipeline)  
 - [Model comparison & results](#model-comparison--results)  
 - [Authorship, ethics & data disclaimer](#authorship-ethics--data-disclaimer)  
-- [Key takeaways](#key-takeaways)
 - [Acknowledgements](#acknowledgements)
 
 ---
@@ -102,14 +101,6 @@ All models were assessed using cross-validation and held-out evaluation metrics;
 
 ---
 
-## Key takeaways
-
-- This project provided hands-on experience translating **theoretical machine learning concepts into practical code**, strengthening my ability to connect mathematical understanding with real-world implementation.  
-- Developing end-to-end pipelines in **Python** using tools like `scikit-learn`, `XGBoost`, and `pandas` significantly improved my **coding proficiency and confidence** in structuring reproducible workflows.  
-- The modeling process required **deep analytical reasoning**, particularly in recognizing how certain mathematical properties (e.g., regularization, bias-variance tradeoff, feature correlation) affected model performance.
-
----
-
 ## Acknowledgements
 
-I am incredibly grateful to Prof. Andrea Celli at Univerità Bocconi for his excellent instruction and enthusiasm for machine learning. It was an absolute privilege to enroll in such an impactful course during my semester exchange. It is truly exhilirating to have such a diverse data analysis toolkit that I am eager to leverage to probe deeper into contemporary issues spanning environmental science, economics, and sustainability.
+I am incredibly grateful to Prof. Andrea Celli at Univerità Bocconi for his excellent instruction and enthusiasm for machine learning. It was an absolute privilege to enroll in such an impactful course during my semester exchange. I am grateful to my project collaborators Rhea Goel, Alexa, Sabrina Wang, and Lorenzo Gao for contributing their time, insights, and enthusiasm to the undertaking. It is truly exhilirating to have such a diverse data analysis toolkit that I am eager to leverage to probe deeper into contemporary issues spanning environmental science, economics, and sustainability.
