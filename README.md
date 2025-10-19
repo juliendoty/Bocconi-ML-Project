@@ -2,7 +2,7 @@
 **Università Bocconi — Machine Learning Coursework (Spring 2025)**
 
 **Short summary**  
-This repository contains a **sanitized excerpt** of a coursework machine-learning project that predicts professional footballers’ market values (EUR). The full project used a 15K+ observation, 75-feature dataset; to protect course data and group deliverables, this repo exposes (1) a concise technical summary, (2) selected code excerpts that illustrate the preprocessing and modeling pipelines (Ridge and Random Forest), and (3) sample outputs (RMSE comparison and feature importance). The full dataset and original group submission are not published here.
+This repository contains a sanitized excerpt of a coursework machine-learning project that predicts professional footballers’ market values (EUR). The full project used a 15K+ observation, 75-feature dataset; to protect course data and group deliverables, this repo exposes (1) a concise technical summary, (2) selected code excerpts (see **excerpt_code.ipynb**) that illustrate the preprocessing and modeling pipelines, and (3) sample outputs (RMSE comparison and feature importance). The full dataset and original group submission are not published here.
 
 ---
 
